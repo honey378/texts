@@ -2,3 +2,6 @@ this is a test file.
 
 this is the first change.( add a msg before commit;do ctrl+s to view the commit option;
  first commit then push; sync changes is push only)
+
+
+ the code on the local machine and git server should be same and for that we push
